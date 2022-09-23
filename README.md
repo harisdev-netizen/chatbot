@@ -21,7 +21,7 @@ Sometimes it can become difficult to work with the chatbot, and we have to set o
 A chatbot is a machine, and it has specific domain knowledge. We cannot expect the chatbot to know everything about everything. We are far from the AI we see in movies, so we need to have realistic expectations while designing a chatbot.
 
 ## Conversation boundaries
-While conversing with a chatbot, you will initially get a lot of wrong answers since the chatbot is unable to comprehend your statements. This may get frustrating at times, but we need to understand that we are conversing with a machine, not a human being.
+A chatbot may first respond to your questions incorrectly because it cannot understand what you are saying. This may occasionally be frustrating, but we must remember that we are interacting with a computer, not a person.
 
 ## Personality
 A conversation with a computer is very different from a conversation with another human. We may expect the chatbot to have the following distinguishable human traits:
