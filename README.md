@@ -1,7 +1,7 @@
 # CHATBOT
 
 ## Introduction
-A chatbot is an artificial intelligence that simulates a conversation with a user through apps or messaging.
+An artificial intelligence labeled a chatbot imitates a conversation with a user through chat or apps.
 
 - Chatbots are the future of AI, as they provide the closest to a natural conversation between humans and machines. Chatbots are not new to us; the first chatbot was Eliza, but it was not as complex as the chatbots we have nowadays, such as Siri or Alexa.
 
