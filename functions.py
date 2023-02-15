@@ -33,14 +33,14 @@ def custom_train(Bot, conversation):
 
 def start_chatbot(Bot):
     print('\033c')
-    print("Hello, I am Jordan. How can I help you")
-    bye_list = ["bye jordan", "bye", "good bye"]
+    print("Hello, I am Haris. How can I help you")
+    bye_list = ["bye Haris", "bye", "good bye"]
 
     while (True):
         user_input = input("me: ")
         if user_input.lower() in bye_list:
-            print("Jordan: Good bye and have a blessed day!")
+            print("Haris: Good bye and have a blessed day!")
             break
 
         response = Bot.get_response(user_input)
-        print("Jordan:", response)
+        print("Haris:", response)
